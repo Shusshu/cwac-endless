@@ -61,8 +61,8 @@
 	
 	
 	<scm>
-		<url>https://github.com/commonsguy/cwac-adapter</url>
-		<connection>scm:git:git://github.com/commonsguy/cwac-adapter.git</connection>
-		<developerConnection>scm:git:git://github.com/commonsguy/cwac-adapter.git</developerConnection>
+		<url>https://github.com/commonsguy/cwac-endless</url>
+		<connection>scm:git:git://github.com/commonsguy/cwac-endless.git</connection>
+		<developerConnection>scm:git:git://github.com/commonsguy/cwac-endless.git</developerConnection>
 	</scm>
 </project>
